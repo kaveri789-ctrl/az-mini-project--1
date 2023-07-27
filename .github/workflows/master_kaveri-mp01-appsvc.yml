@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'kaveri-mp01-appsvc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65E5BB520FDA4F2BAA02C7D9C0C4C37C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E5CAAB1239941DFA0B784A3CF22D07B }}
           package: .
